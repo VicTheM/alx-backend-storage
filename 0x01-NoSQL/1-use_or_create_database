@@ -1,0 +1,2 @@
+// Mongosh script that does what the name of the file says
+use my_db;
