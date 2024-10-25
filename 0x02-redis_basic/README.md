@@ -1,0 +1,3 @@
+### Redis is fast, but it's not a database...
+
+at least not in the traditional sense. Redis is a key-value store, which means that it stores data in a way that is similar to a Python dictionary. This makes it very fast for certain types of operations, but it also means that it's not as flexible as a traditional database.
